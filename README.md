@@ -6,7 +6,7 @@
 
 # Deploy : 
 
-https://sule-ss.github.io/task-tracker/
+https://sule-recipe-app2.herokuapp.com/
 
 <h2 align="center">Happy Coding  ✍</h2>
 
