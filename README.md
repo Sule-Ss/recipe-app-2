@@ -6,7 +6,7 @@
 
 # Deploy : 
 
-https://sule-recipe-app2.herokuapp.com/
+https://sule-recipe-app.netlify.app/
 
 <h2 align="center">Happy Coding  ✍</h2>
 
